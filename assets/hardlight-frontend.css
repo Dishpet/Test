@@ -1,0 +1,9 @@
+.hardlight-host {
+    position: relative;
+}
+
+.hardlight-frame {
+    border: 0;
+    width: 100%;
+    min-height: 200px;
+}
